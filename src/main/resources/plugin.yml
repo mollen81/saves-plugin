@@ -1,0 +1,6 @@
+name: saves-plugin
+version: 0.1
+main: java.mollen.plugins.saves_plugin
+api-version: 1.20
+author: mollen
+description: Saves player and world data on player's quit
